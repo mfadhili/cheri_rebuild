@@ -1,4 +1,4 @@
-package com.example.cheri2.data.models;
+package com.example.cheri2.data.domain;
 /**
  * The models subpackage contains
  * 1. ENUMs that the data entities -They are constants needed in definitions
