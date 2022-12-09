@@ -8,7 +8,7 @@ import java.util.Optional;
 @Component
 public interface HomeService {
     Home createHome( Home home);
-    void deleteHome( Long homeId);
+    String deleteHome(Long homeId);
     Optional<Home> getHomeById(Long Id);
 
 }
